@@ -45,7 +45,7 @@ const Header = memo(({ onThemeChange, theme }: Props) => {
             {t("Samples")}
           </NavLink>
           <a
-            href="https://github.com/Bowen7/regex-vis"
+            href="https://github.com/hzw-object/regex-vis"
             target="_blank"
             rel="noopener noreferrer"
           >
