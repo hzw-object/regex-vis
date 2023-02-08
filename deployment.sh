@@ -1,6 +1,6 @@
 #!/bin/sh -l
 time=$(date "+%Y%m%d%H%M%S")
-pnpm reinstall
+pnpm install
 pnpm run build
 TAG=latest
 SERVER_NAME=regex-vis
